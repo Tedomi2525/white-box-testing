@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Java Basic Project
 
 ## Mô tả
@@ -68,3 +69,6 @@ Nội dung:
 - Kiểm thử điều kiện biên.
 - Kiểm thử các nhánh lỗi.
 - Kiểm thử vòng lặp không chạy, chạy một lần và chạy nhiều lần.
+=======
+# white-box-testing
+>>>>>>> 9d9d8216680538ce70529d3106645fc6bfc236a6
